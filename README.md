@@ -1,7 +1,5 @@
 ![2](https://github.com/user-attachments/assets/f80885a7-41ea-40b7-8bba-283b48065af1)
 
-![3](https://github.com/user-attachments/assets/08f35475-298a-46d5-a614-f6be7d8bf591)
-
 <div align="center">
 
   [![Downloads](https://img.shields.io/badge/Downloads-5.2k+-blue?style=for-the-badge)](#)
